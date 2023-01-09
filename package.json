@@ -84,7 +84,7 @@
   "dependencies": {
     "bluebird": "3.5.0",
     "check-more-types": "^2.24.0",
-    "debug": "^2.6.8",
+    "debug": "^3.1.0",
     "docsearch.js": "2.3.3",
     "fira": "github:cypress-io/fira#fb63362742eea8cdce0d90825ab9264d77719e3d",
     "font-awesome": "4.7.0",
